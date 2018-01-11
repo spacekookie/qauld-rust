@@ -1,0 +1,8 @@
+[package]
+name = "qauld-iron-rust"
+version = "0.1.0"
+authors = ["Katharina Fey <kookie@spacekookie.de>"]
+
+[dependencies]
+iron = "0.6.0"
+time = "0.1.39"
